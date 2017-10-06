@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  ios-common-template
+
+  Created by Eryk Mariankowski on 05.10.2017.
+  Copyright © 2017 Eryk Mariankowski. All rights reserved.
+*/
+"installation_bluetooth"="Bluetooth";
+"error"="Error";
+"notification"="Notification";
+"enable"="Enable";
+"disable"="Disable";
+"cancel"="Cancel";
+"retry"="Retry";
+"off"="Off";
+"continue_txt"="Continue";
+"please_wait"="Please wait a moment…";
+"authorization"="Authorization";
+"delete"="Delete";
+"widget"="Widget";
